@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acf9221bfaf8e5b4e9dd5d6e8820dcb6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button: {instanceID: 0}
+  - targetlight: {instanceID: 0}
+  - switchsound: {fileID: 8300000, guid: de970232fc0fe984fbb123e62f829265, type: 3}
+  - switchsource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
