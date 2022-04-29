@@ -2,3 +2,4 @@
 * text=auto
 Library/SourceAssetDb filter=lfs diff=lfs merge=lfs -text
 Library/Artifacts/ad/addd5e4aeb2a32b077eca29164cf6f4a filter=lfs diff=lfs merge=lfs -text
+Assets/DEMO/kloppenheim_02_8k.hdr filter=lfs diff=lfs merge=lfs -text
